@@ -1,6 +1,6 @@
 # Consensus
 
-Python script for creating consensus networks based on Maciej Eder's paper, Visualization in Stylometry: Cluster Analysis Using Networks.
+Python script for creating consensus networks based on Maciej Eder's paper, **Visualization in Stylometry: Cluster Analysis Using Networks**.
 Paper can be found [here](https://academic.oup.com/dsh/article/32/1/50/2957386).
 
 ## Getting Started
